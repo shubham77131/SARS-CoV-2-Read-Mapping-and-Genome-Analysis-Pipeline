@@ -32,5 +32,7 @@ Average Coverage Depth	~1000X
 The following plot illustrates the read depth across the ~30kb SARS-CoV-2 genome. This plot demonstrates uniform coverage, which is essential for ensuring robust data quality.
 
 # Data files
-Reference genome link- https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta
-Raw sequence data link - https://trace.ncbi.nlm.nih.gov/Traces/index.html?view=run_browser&acc=SRR15595111&display=metadata
+Reference genome link-
+https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta
+Raw sequence data link- 
+https://trace.ncbi.nlm.nih.gov/Traces/index.html?view=run_browser&acc=SRR15595111&display=metadata
