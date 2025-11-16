@@ -1,0 +1,6 @@
+Metric,Value
+Total Reads Processed,3200596
+Mapped Reads,3180000
+Unmapped Reads,20596
+Overall Alignment Rate,99.27%
+Average Coverage Depth,788.27X
