@@ -20,7 +20,7 @@ Post-Alignment Processing: Used Samtools to convert file formats (SAM to BAM), s
 Analysis & Reporting (Python): Calculated alignment metrics, generated a genome coverage map using pysam and matplotlib, and produced a summary report.
 
 # Results
-A. Alignment Summary
+Alignment Summary
 The analysis confirmed a high prevalence of the virus in the sample.
 Total Reads Processed	3,200,596
 Mapped Reads	3,180,000
@@ -30,3 +30,7 @@ Average Coverage Depth	~1000X
 
 # Genome Coverage Map
 The following plot illustrates the read depth across the ~30kb SARS-CoV-2 genome. This plot demonstrates uniform coverage, which is essential for ensuring robust data quality.
+
+# Data files
+Reference genome link- https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=fasta
+Raw sequence data link - https://trace.ncbi.nlm.nih.gov/Traces/index.html?view=run_browser&acc=SRR15595111&display=metadata
