@@ -36,4 +36,5 @@ Average Coverage Depth	~1000X
 
 # Genome Coverage Map
 The following plot illustrates the read depth across the ~30kb SARS-CoV-2 genome. This plot demonstrates uniform coverage, which is essential for ensuring robust data quality.
-! [genomics-coverage-map](assets/download.png)
+
+![genomics-coverage-map](assets/download.png)
